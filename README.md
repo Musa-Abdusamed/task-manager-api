@@ -88,6 +88,7 @@ task-manager/
     └── app.js
 ```
 ---
+API Endpoints
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
