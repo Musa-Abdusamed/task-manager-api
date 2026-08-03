@@ -26,6 +26,7 @@ Data
 ```
 ---
 ###✨ Features
+
 ✅ Create tasks
 
 📋 View all tasks
@@ -66,5 +67,26 @@ dotenv
 CORS
 ---
 ###🏗️ Project Structure
+```
+task-manager/
+│
+├── backend/
+│   ├── index.js
+│   ├── .env
+│   ├── routes/
+│   │   └── taskRoutes.js
+│   ├── controllers/
+│   │   └── taskController.js
+│   ├── services/
+│   │   └── taskService.js
+│   └── data/
+│       └── taskData.js
+│
+└── frontend/
+    ├── index.html
+    ├── style.css
+    └── app.js
+```
+---
 
 
