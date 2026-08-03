@@ -89,6 +89,11 @@ task-manager/
 ```
 ---
 
-API EndpointsMethodEndpointDescriptionGET/api/tasksGet all tasksGET/api/tasks/:idGet task by IDPOST/api/tasksCreate a taskPATCH/api/tasks/:idUpdate a taskDELETE/api/tasks/:idDelete a task
----
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/tasks` | Get all tasks |
+| `GET` | `/api/tasks/:id` | Get task by ID |
+| `POST` | `/api/tasks` | Create a task |
+| `PATCH` | `/api/tasks/:id` | Update a task |
+| `DELETE` | `/api/tasks/:id` | Delete a task |
 
