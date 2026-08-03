@@ -8,7 +8,7 @@ A simple full-stack task management application that helps users organize, prior
 
 TaskNest is a full-stack Task Manager application built with Node.js and Express. The project focuses on building a clean REST API, following MVC architecture, and connecting a frontend with a backend.
 
-### Architecture
+## Architecture
 
 ```text
 Frontend
