@@ -23,5 +23,45 @@ Services
    ↓
 Data
 
+✨ Features
+✅ Create tasks
+
+📋 View all tasks
+
+🔍 Get task by ID
+
+✏️ Update tasks
+
+🗑️ Delete tasks
+
+☑️ Mark tasks as completed
+
+🎯 Manage task priorities
+
+📊 Track completion progress
+
+🛠️ Tech Stack
+Frontend
+HTML
+
+CSS
+
+JavaScript (ES6)
+
+Backend
+Node.js
+
+Express.js
+
+Tools
+Git & GitHub
+
+Postman
+
+dotenv
+
+CORS
+
+🏗️ Project Structure
 
 
