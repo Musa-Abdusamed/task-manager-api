@@ -22,7 +22,7 @@ Controllers
    ↓
 Services
    ↓
-```Data
+Data
 ---
 ###✨ Features
 ✅ Create tasks
