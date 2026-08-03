@@ -10,7 +10,7 @@ TaskNest is a full-stack Task Manager application built with Node.js and Express
 
 ### Architecture
 
-```text
+text
 Frontend
    ↓
 REST API
